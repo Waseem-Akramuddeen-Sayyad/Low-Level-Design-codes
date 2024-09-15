@@ -1,4 +1,4 @@
-# Storage Design LLD
+# Box_Store Design LLD
 
 ## Overview
 This Java program models a storage management system for optimizing profitability by making decisions about which boxes to store. It evaluates whether new boxes should be accepted based on the rent per unit area compared to the median rent value of the past historical data.
