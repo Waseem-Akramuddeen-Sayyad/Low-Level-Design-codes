@@ -70,7 +70,7 @@ class Box{
 
 
                      public int getrent(){
-                           retutn totalrentcollected;
+                           return totalrentcollected;
                      }
              
          }
