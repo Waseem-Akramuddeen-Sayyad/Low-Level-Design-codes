@@ -6,11 +6,9 @@ This Java program models a storage management system for optimizing profitabilit
 The goal is to ensure that only boxes with higher rent per unit than the median are stored, maximizing the store's profit.
 
 ## Files
-- **BoxStoreCode.java**: Contains the implementation of the `Store` and `Box` classes, along with the main function that drives the program.
+- **BoxStoreCode.java**: Contains the implementation of the `Boxstorage` and `Box` classes, along with the main function that drives the program.
 - **README.md**: This file, explaining the usage and logic of the program.
 
 ## Usage
-To run the program, compile the `BoxStoreCode.java` file using a Java compiler. For example:
-```bash
-javac BoxStoreCode.java
-java BoxStoreCode
+To run the program, compile the `BoxStoreCode.java` file using a Java compiler.
+
