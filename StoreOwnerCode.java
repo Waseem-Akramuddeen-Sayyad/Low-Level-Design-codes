@@ -36,6 +36,7 @@ class Box{
                 this.storageBreadth = breadth;
                 this.totalrentcollected = 0;
                 this.thresholdrent = calculatethresholdrent(boxesData);
+                System.out.println(thresholdrent);
                 storage = new int[length][breadth];
 
 
@@ -119,7 +120,7 @@ class Box{
                                }
 
                                 return true;
-        ;              }
+                      }
 
 
                          return false;
