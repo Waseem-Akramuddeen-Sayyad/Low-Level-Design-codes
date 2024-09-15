@@ -61,7 +61,7 @@ class Box{
 
                   if(n%2==0){                 //  fixing threshold median according to the rent 
                         
-                     return (rent.get(n-1/2) + rent.get(n/2));
+                     return (rent.get(n/2-1) + rent.get(n/2));
                   }else{
                         
                       return (rent.get(n/2));
