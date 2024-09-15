@@ -6,4 +6,3 @@ Files:
 main.java: Contains the implementation of the Store and Box classes, along with the main function that drives the program.
 
 README.md: This file, explaining the usage and logic of the program.
-
